@@ -1,0 +1,7 @@
+assign (
+        ( resid 602  and segid A)
+        or
+        ( resid 603  and segid A)
+       )
+       ( resid 85 and segid B)
+       2.0 2.0 0.0
