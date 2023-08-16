@@ -19,6 +19,8 @@ The content of the two directories is the following:
   * _4G6M_clean.pdb_: Pre-processed reference structure of the complex to allow for easy comparison with the HADDOCK models
   * _job_params.json_: The HADDOCK2.4 server parameter file corresponding to the described protocol. This file can be used for direct submission to the [submit file](https://bianca.science.uu.nl/haddock2.4/submit_file) interface of the server.
 
+A full run result page for this system is available at: https://wenmr.science.uu.nl/haddock2.4/result/4242424242/264063-Antibody-Antigen-NMR
+
 
 ### nucleosome
 
@@ -28,5 +30,7 @@ The content of the two directories is the following:
   * _job_params.json_: The HADDOCK2.4 server parameter file corresponding to the described protocol. This file can be used for direct submission to the [submit file](https://bianca.science.uu.nl/haddock2.4/submit_file) interface of the server.
   * _histones-passive.list_: ASCII text file containing the list of solvent accessible residue on the nucleosme side used to define the passive residues for docking
   * _lys-cys-linkage.tbl_: CNS-formatted distance restraint file for the defineing the CYS (PRC1) to LYS (nucleosome) linkage (ambiguously defined to two LYS residues)
+
+A full run result page for this system is available at: https://wenmr.science.uu.nl/haddock2.4/result/4242424242/264564-Nucleosome-Docking-CG
 
 
